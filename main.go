@@ -16,5 +16,5 @@ func InitiateRouter()  {
 	) 
 	station.Initiate(api)
 
-	router.Run(":8080")
+	router.Run(":3000")
 }
